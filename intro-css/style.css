@@ -1779,7 +1779,7 @@ background: rgba(0, 0, 0, .4);
 /* the button */
 .the-button-wrapper {
 position: relative;
-width: 1000px;
+width: 850px;
 height: auto;
 line-height: 1.5;
 padding: 0;
@@ -1793,14 +1793,14 @@ margin: -7px auto 0 auto;
 
 @media all and (min-width: 1920px) {
   .the-button-wrapper {
-    width: 1000px;
+    width: 850px;
     margin: -4px auto 0 auto;
   }
 }
 
 @media only screen and (max-width: 640px) {
   .the-button-wrapper {
-    width: 1000px;
+    width: 850px;
   }
 }
 
