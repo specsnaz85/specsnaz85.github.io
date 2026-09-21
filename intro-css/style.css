@@ -2114,7 +2114,7 @@ width: 100%;
 .the-button-light::before {
 content: "";
 position: absolute;
-width: 15px;
+width: 120px;
 height: 87px;
 top: -2px;
 left: -6px;
