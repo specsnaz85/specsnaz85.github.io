@@ -2146,7 +2146,7 @@ border-right: none;
 .the-button-light::after {
 content: "";
 position: absolute;
-width: 15px;
+width: 120px;
 height: 87px;
 top: -2px;
 right: -6px;
