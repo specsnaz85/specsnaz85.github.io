@@ -158,7 +158,7 @@
         }, false);
         ac.addEventListener("cached", function () {
             setCache("Закэшировано для Оффлайн использования", true);
-            waitForTap("Закэшировано (первый запуск) --> Нажмите X", go);
+            waitForTap("Закэшировано (первый запуск) --> <div color="green"><b>Нажмите X</b></div>", go);
         }, false);
         ac.addEventListener("updateready", function () {
             try { ac.swapCache(); } catch (e) {}
